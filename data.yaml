@@ -1,0 +1,10 @@
+path: dataset
+train: images/train
+val: images/val
+
+names:
+  0: nike
+  1: adidas
+  2: oasys
+  3: olympikus
+  4: mizuno
