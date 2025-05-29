@@ -1,0 +1,7 @@
+# Arquivos grandes que não devem ir pro Git
+*.avi
+*.mp4
+*.dll
+*.lib
+venv/
+runs/
